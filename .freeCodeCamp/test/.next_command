@@ -29,3 +29,4 @@ pwd
 ls --color=auto
 echo hello bash
 touch questionnaire.sh
+sh questionnaire.sh
