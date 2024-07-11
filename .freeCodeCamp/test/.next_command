@@ -62,3 +62,6 @@ touch countdown.sh
 chmod +x countdown.sh
 code countdown.sh
 ./countdown.sh
+./countdown.sh arg1, arg2, arg3
+./countdown.sh 123, "Mark", 2903.9
+./countdown.sh arg1 arg2 arg3
